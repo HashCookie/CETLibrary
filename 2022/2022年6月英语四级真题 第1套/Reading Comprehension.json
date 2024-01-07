@@ -1,0 +1,256 @@
+[
+  {
+    "Section": "A",
+    "Directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+    "Passage": "If you’ve ever looked at the ingredients list while grocery shopping, chances are you’ve seen the term “natural flavors”. But have you taken a 26 to consider what these natural flavors actually are?Most of us might think that “natural flavors” are, well, naturally good for us. A recent study in the journal Appetite found that when the word “natural” appears on packaging, people 27 that the food within is indeed healthier. In truth, natural flavors do not 28 much, at least chemically speaking, from their flavor-boosting 29 : artificial flavors. Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a 30 smell or taste.Natural flavors come from plant or animal 31 , like fruit, vegetable, meat, fish or milk that is then processed or refined in some way. In short, natural flavors are 32 from plants and animals to create specific flavors for processed foods. But that does not 33 make it easier to tell what is really in your food. Because the Food and Drug Administration (FDA) has not 34 the term, companies can use it to refer to pretty much anything derived from a plant or animal. And natural flavors can also include a variety of chemical additives, such as preservatives. The FDA doesn’t require companies to reveal what additional chemicals a specific item 35 .So if you want to know for certain what you’re getting with your groceries, you might want to stick to the farmer’s market.",
+    "WordBank": [
+      "A) acknowledge",
+      "B) chance",
+      "C) contains",
+      "D) counterparts",
+      "E) defined",
+      "F) differ",
+      "G) especially",
+      "H) extracted",
+      "I) implies",
+      "J) necessarily",
+      "K) particular",
+      "L) perceive",
+      "M) second",
+      "N) sources",
+      "O) strange"
+    ]
+  },
+  {
+    "Section": "B",
+    "SectionDirections": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+    "Passage": {
+      "title": "Fake holiday villa websites prompt warning",
+      "paragraphs": {
+        
+      }
+    },
+    "Questions": [
+      {
+        "Number": 36,
+        "Statement": "Fraudsters often steal villa-booking information from authentic holiday websites.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 37,
+        "Statement": "Fraudsters keep changing their bank accounts to avoid being tracked.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 38,
+        "Statement": "It is suggested that people not going on the holiday might help detect website frauds.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 39,
+        "Statement": "More and more British holidaymakers find the seaside villas they booked online actually nonexistent.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 40,
+        "Statement": "By checking an agent’s name online before booking a villa, holidaymakers can avoid falling into traps.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 41,
+        "Statement": "Fraudsters are difficult to identify, according to an online safety expert.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 42,
+        "Statement": "Holidaymakers have been alerted to the frequent occurrence of online villa-booking frauds.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 43,
+        "Statement": "It is holidaymakers that can protect themselves from falling victim to frauds.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 44,
+        "Statement": "Holidaymakers are advised not to make payments by bank transfer.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      },
+      {
+        "Number": 45,
+        "Statement": "Fraudsters advertise their villas at reasonable prices so as not to be suspected.",
+        "Options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ]
+      }
+    ]
+  }
+]
